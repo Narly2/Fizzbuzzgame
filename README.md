@@ -21,8 +21,7 @@ This project implements a FizzBuzz game with enhancements for multiple players a
 
  Installation
 1. Clone the repository:
-```bash
-git clone https://github.com/TuUsuario/FizzBuzzProject.git
+2. git clone https://github.com/TuUsuario/FizzBuzzProject.git
 2. Open the project in Code::Blocks or any C++ IDE.
 3. Build the project (make sure you have C++11 or later enabled).
 4. Run the executable.
