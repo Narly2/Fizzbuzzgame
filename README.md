@@ -1,6 +1,6 @@
 FizzBuzz Game in C++
 
-A multithreaded FizzBuzz game implemented in C++ with customizable player names divisor numbers.
+A multithreaded FizzBuzz game implemented in C++ with customizable player names and divisor numbers.
 
 Description
 This project implements a FizzBuzz game with enhancements for multiple players and message display.
